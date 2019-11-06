@@ -18,10 +18,10 @@ theme: jekyll-theme-time-machine
 
 #######################################################################################
 # Jekyll site settings
-title: ''
-author: Monica Bobra and James Mason
+title: '4testing'
+author: tumtum88
 description: >-
-  "A book about machine learning, statistics, and data mining for heliophysics"
+  "how to test"
 baseurl: /               # the subpath of your site
 url: https://helioml.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
